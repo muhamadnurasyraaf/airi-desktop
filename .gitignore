@@ -2,3 +2,6 @@ build/bin
 node_modules
 frontend/dist
 .env
+
+# Windows reserved device name created by npm tools
+frontend/nul
